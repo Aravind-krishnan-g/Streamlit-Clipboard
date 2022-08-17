@@ -9,11 +9,11 @@ How to use it:
 - make sure streamlit library is installed
 - import the Clipper python file provided in the repo
     ```
-    import Clipper
+    import clipper
     ```
 - use the clip function from Clipper with string as argument
     ```
-    Clipper.clip(<YOUR TEXT>)
+    clipper.clip(<YOUR TEXT>)
     ```
 - check a demo of the working usind the demo.py file
     ```
