@@ -15,7 +15,7 @@ How to use it:
     ```
     clipper.clip(<YOUR TEXT>)
     ```
-- check a demo of the working usind the demo.py file
+- check the working of the code using the demo.py file
     ```
     streamlit run demo.py
     ```
