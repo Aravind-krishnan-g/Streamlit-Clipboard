@@ -7,7 +7,7 @@
 <br>
 
 ## Files in the repo:
-- requirements.txt - If streamlit is not installed, you can install it using <code>pip install streamlit</code> or <code>pip install -f requirements.txt</code>
+- requirements.txt - If streamlit is not installed, you can install it using <code>pip install streamlit</code> or <code>pip install -r requirements.txt</code>
 - clipper.py - clipping function wrapped in a python file
 - demo.py - a working demo of the clipper package 
 <br>
