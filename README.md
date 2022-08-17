@@ -14,3 +14,8 @@ How to use it:
 - use the clip function from Clipper with string as argument
     ```
     Clipper.clip(<YOUR TEXT>)
+    ```
+- check a demo of the working usind the demo.py file
+    ```
+    streamlit run demo.py
+    ```
