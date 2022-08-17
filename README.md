@@ -18,11 +18,11 @@
     ```
     import clipper
     ```
-- use the clip function from the cliiper file with string as argument
+- use the clip function from the clipper file with string as argument
     ```
     clipper.clip(<YOUR TEXT>)
     ```
-- check a demo of the working usind the demo.py file
+- check a demo of the working using the demo.py file
     ```
     streamlit run demo.py
     ```
